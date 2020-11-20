@@ -1,5 +1,5 @@
 function init(){
-//add your javascrip between these two lines of code
+//add your javascript between these two lines of code
 var entry = document.getElementById('entryinput');
 var button = document.getElementById('entrybutton');
 var txoutput = document.getElementById('textoutput');
